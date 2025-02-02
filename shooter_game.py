@@ -26,7 +26,7 @@ img_enemy = 'bass.png' #враг
 
 score = 0
 lost = 0
-goal = 15
+goal = 10
 max_lost = 3
 life = 3
 
